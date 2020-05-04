@@ -303,7 +303,7 @@ class Adventure(sm.SM):
 All in all, i had a lot of fun making this game. The hardest part of this mini project was linking the travelling mode and combat mode together and ensuring that everything went well together. I learnt a lot more about object-oriented programming through this and how to properly structure my code.
 Hope you had fun playing!
 
-
+Made by: Jun Wei
 > Video of gameplay: https://youtu.be/wyiPxqHdHes
 
 
