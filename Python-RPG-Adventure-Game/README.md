@@ -3,7 +3,7 @@ Digital World 10.009 Final Assignment
 
 This is an adventure game made with Python using a library called 'libdw' as a final assignment for the course 10.009 - The Digital World.
 
-Ensure that you run the code below in your command prompt before starting the game.
+Ensure that you install the libdw library
 ```
 pip install libdw
 ```
